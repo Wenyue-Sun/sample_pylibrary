@@ -47,9 +47,9 @@ Overview
     :alt: Supported implementations
     :target: https://pypi.org/project/sample_pylibrary
 
-.. |commits-since| image:: https://img.shields.io/github/commits-since/Wenyue-Sun/sample_pylibrary/v0.0.0.svg
+.. |commits-since| image:: https://img.shields.io/github/commits-since/Wenyue-Sun/sample_pylibrary/v0.1.0.svg
     :alt: Commits since latest release
-    :target: https://github.com/Wenyue-Sun/sample_pylibrary/compare/v0.0.0...master
+    :target: https://github.com/Wenyue-Sun/sample_pylibrary/compare/v0.1.0...master
 
 
 

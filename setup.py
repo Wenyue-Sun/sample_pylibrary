@@ -41,7 +41,7 @@ if 'TOXENV' in os.environ and 'SETUPPY_CFLAGS' in os.environ:
 
 setup(
     name='sample_pylibrary',
-    version='0.0.0',
+    version='0.1.0',
     license='MIT',
     description='Sample python package created from cookiecutter-pylibrary',
     long_description='%s\n%s' % (
